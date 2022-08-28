@@ -5,7 +5,9 @@ Deploy a highly available RabbitMQ Stateful Cluster on Kubernetes.
 
 Clone the repo:
 
-```git clone 'https://github.com/sabershahhoseini/rabbitmq-statefulset-cluster'```
+```
+git clone 'https://github.com/sabershahhoseini/rabbitmq-statefulset-cluster'
+```
 
 Create a namespace:
 
