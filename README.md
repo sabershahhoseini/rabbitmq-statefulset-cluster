@@ -14,9 +14,13 @@ Create a namespace:
 Go to **./manifests** directory and apply the manifests:
 
 `kubectl apply -n rabbits -f rabbit-rbac.yaml`
+
 `kubectl apply -n rabbits -f rabbit-secret.yaml`
+
 `kubectl apply -n rabbits -f rabbit-configmap.yaml`
+
 `kubectl apply -n rabbits -f rabbit-statefulset.yaml`
+
 
 Wait for the cluster to be deployed.
 
