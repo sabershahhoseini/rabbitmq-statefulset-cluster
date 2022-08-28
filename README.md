@@ -1,7 +1,7 @@
 # rabbitmq-statefulset-cluster
 Deploy a highly available RabbitMQ Stateful Cluster on Kubernetes.
 
-** Gettings started:
+**Gettings started:
 
 Clone the repo:
 
